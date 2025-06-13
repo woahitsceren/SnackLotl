@@ -1,0 +1,4 @@
+# Project dependencies for Stanford_CodeInPlace_AxolotlGame
+# Required Python libraries with exact versions
+
+pygame==2.6.1  # Python game development library used for rendering and input handling
