@@ -5,6 +5,11 @@ Department: Computer Engineering, 2nd Year
 Project: Stanford Code In Place 2025 Final Project  
 Title: SnackLotl — A Visual Underwater-Themed Game
 
+Demo Video  
+-----------
+You can watch the gameplay demo here:  
+https://www.youtube.com/watch?v=R3J9KMKOv78
+
 Overview:
 ---------
 SnackLotl is a underwater-themed mini-game where you control a cute pink axolotl swimming near the ocean floor.  
@@ -22,6 +27,13 @@ The goal is simple: collect as many snacks (shrimp and fish) as possible, while 
 
 
 This project was created as the final project for Stanford University's **Code in Place 2025** course.
+
+Development  
+-----------  
+- Code editor: Visual Studio Code  
+- Version control: Git (hosted on GitHub)  
+- The full commit history is available in this repository  
+- Demo recorded with OBS Studio
 
 How to Run:
 -----------
