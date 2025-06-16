@@ -9,6 +9,7 @@ Demo Video
 -----------
 You can watch the gameplay demo here:  
 https://www.youtube.com/watch?v=R3J9KMKOv78
+
 You can see the official project showcase and demo here:
 https://codeinplace.stanford.edu/2025/showcase?project=HL1F0C4hRXgDOMGyyfM0oOrkzI13
 
